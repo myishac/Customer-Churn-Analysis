@@ -12,3 +12,5 @@ The analytical problem would be determining which factors are common between cus
 
 The goal here is to deal with the issue of churn rate as it can have a negative impact on the company in several regards. Machine learning algorithms will be used to predict if certain customers will churn and the ways in which it can be prevented.
 
+### Data:
+We used sample data from IBM for our customer churn case. The dataset contains over 7,000 records and 33 columns and represents customer data from a telecommunication company based in California, USA.
