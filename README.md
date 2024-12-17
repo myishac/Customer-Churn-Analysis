@@ -17,6 +17,3 @@ We used sample data from IBM for our customer churn case. The dataset contains o
 
 ### Models:
 Due to the nature of Churn being one of two options either a customer stays or leaves we decided it fits best to use a classification models. These models will be used to predict the likelihood that a customer will leave (class 1) or staying (class 0).
-
-##### Logistic Regression:
-Logistic Regression was chosen due to its high interpretability and simplicity. Using the predictors, the model will produce a probability between 0 and 1 and from there we can determine if the customer is closer to leaving (1) or staying (0). 
